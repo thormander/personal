@@ -22,13 +22,6 @@
       }
     },
     {
-      "label": "SQL",
-      "image": {
-        "src": "../../images/sql_icon.png",
-        "alt": "SQL Icon"
-      }
-    },
-    {
       "label": "MySQL",
       "image": {
         "src": "../../images/mysql_icon.png",
@@ -36,10 +29,10 @@
       }
     },
     {
-      "label": "MariaDB",
+      "label": "Docker",
       "image": {
-        "src": "../../images/mariadb_icon.png",
-        "alt": "MariaDB Icon"
+        "src": "../../images/docker_icon.png",
+        "alt": "Docker Icon"
       }
     },
     {
@@ -73,7 +66,7 @@
     {
       "label": "React",
       "image": {
-        "src": "../../images/react_icon.png",
+        "src": "../../images/react.png",
         "alt": "React Icon"
       }
     },
@@ -99,10 +92,10 @@
       }
     },
     {
-      "label": "Docker",
+      "label": "MariaDB",
       "image": {
-        "src": "../../images/docker_icon.png",
-        "alt": "Docker Icon"
+        "src": "../../images/mariadb_icon.png",
+        "alt": "MariaDB Icon"
       }
     }
   ],
