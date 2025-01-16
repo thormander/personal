@@ -37,8 +37,5 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ],
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  }
+  ]
 }

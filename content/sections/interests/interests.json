@@ -1,59 +1,108 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python_icon.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "C++",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/cpp_icon.png",
+        "alt": "C++ Icon"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Java",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/java_icon.png",
+        "alt": "Java Icon"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "SQL",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/sql_icon.png",
+        "alt": "SQL Icon"
       }
     },
     {
-      "label": "Animations",
+      "label": "MySQL",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/mysql_icon.png",
+        "alt": "MySQL Icon"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "MariaDB",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/mariadb_icon.png",
+        "alt": "MariaDB Icon"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "MongoDB",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/mongodb_icon.png",
+        "alt": "MongoDB Icon"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Git",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/git_icon.png",
+        "alt": "Git Icon"
+      }
+    },
+    {
+      "label": "GitHub/GitLab",
+      "image": {
+        "src": "../../images/github_icon.png",
+        "alt": "GitHub and GitLab Icon"
+      }
+    },
+    {
+      "label": "JUnit",
+      "image": {
+        "src": "../../images/junit_icon.png",
+        "alt": "JUnit Icon"
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react_icon.png",
+        "alt": "React Icon"
+      }
+    },
+    {
+      "label": "Knime/Alteryx",
+      "image": {
+        "src": "../../images/knime_icon.png",
+        "alt": "Knime Icon"
+      }
+    },
+    {
+      "label": "Postman",
+      "image": {
+        "src": "../../images/postman_icon.png",
+        "alt": "Postman Icon"
+      }
+    },
+    {
+      "label": "Jenkins",
+      "image": {
+        "src": "../../images/jenkins_icon.png",
+        "alt": "Jenkins Icon"
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker_icon.png",
+        "alt": "Docker Icon"
       }
     }
   ],

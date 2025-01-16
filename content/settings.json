@@ -20,6 +20,11 @@
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#features" }
       ],
+      "ctaButton1": {
+        "openNewTab": false,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
