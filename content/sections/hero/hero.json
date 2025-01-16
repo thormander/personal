@@ -13,6 +13,6 @@
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github"],
-    "showIcons": false
+    "showIcons": true
   }
 }
