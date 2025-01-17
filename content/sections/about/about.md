@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/about_guam.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Picture of me in front of the ocean"
 ---
 Born and raised on the small island of Guam 🏝️, I’ve always have been drawn to problem-solving. I spend my days writing code, working with data, and figuring out how to turn abstract ideas into practical solutions.
 
