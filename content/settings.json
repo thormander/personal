@@ -5,7 +5,6 @@
     "title": "thorLandstrom",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Portfolio website",
-    "author": "Thor Landstrom",
     "social": {
       "github": "https://github.com/thormander",
       "medium": "https://medium.com/@thormander",
@@ -17,7 +16,6 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#features" }
       ],
       "ctaButton1": {
