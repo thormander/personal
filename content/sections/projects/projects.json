@@ -26,16 +26,16 @@
       "visible": true,
       "category": "Compression",
       "title": "File Compresser using Huffman",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "description": "Provides compression/uncompression of a .txt file using Huffman's algorithim. Compressed file uses psuedo eof (end of file) character and magic number. Program will not run on files without the magic number at start of file.",
       "tags": ["C++", "Huffman Tree"],
       "image": {
         "src": "../../images/Huffman.png",
-        "alt": "Extendable Layout"
+        "alt": "Image of file program compressing"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/thormander/Algo-Visualizer"
+          "url": "https://github.com/thormander/huffman"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "category": "Pygame 🐍",
       "title": "AI Snake Game",
       "description": "Use of Q-Learning to provide an agent to play Snake Game",
-      "tags": ["Pygame", "Machine Learning","Python", "Model-free"],
+      "tags": ["Pygame", "Machine Learning","Python"],
       "image": {
         "src": "../../images/snake.png",
         "alt": "Extendable Layout"

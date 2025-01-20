@@ -16,7 +16,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/#features" }
+        { "label": "Projects", "url": "/#projects" }
       ],
       "ctaButton1": {
         "openNewTab": false,
